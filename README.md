@@ -13,3 +13,5 @@ typescript
 - [在线 complier：](http://www.typescriptlang.org/play/index.html)
 - [浅谈 TypeScript: ](https://github.com/welearnmore/typescript-book)
 - [typescript-tutorial:]( https://github.com/xcatliu/typescript-tutorial)
+
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
