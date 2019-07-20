@@ -3,6 +3,11 @@
 typescript
 
 
+```
+"tsc": "tsc"——执行一次TypeScript编译
+
+"dev": "tsc -w"——以监控模式运行TypeScript编译器。后台始终保持进程。一旦TypeScript文件变化即会重编译
+```
 
 
 ## 参考
